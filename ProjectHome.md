@@ -1,0 +1,1 @@
+An Open Source Game Framework for building games. IGF is a collection of modules that makes your life easy as a Monkey developer by giving you a set of usefull classes (state machine, resource manager, components, etc...) for your apps.
